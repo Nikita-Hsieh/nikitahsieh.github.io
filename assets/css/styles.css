@@ -471,27 +471,31 @@ img {
 }
 
 .skills__html {
-  width: 85%;
+  width: 90%;
 }
 
 .skills__css {
-  width: 80%;
+  width: 90%;
 }
 
 .skills__javascript {
-  width: 75%;
+  width: 80%;
 }
 
 .skills__git {
-  width: 75%;
+  width: 80%;
 }
 
 .skills__react {
+  width: 70%;
+}
+
+.skills__vue {
   width: 65%;
 }
 
 .skills__node {
-  width: 65%;
+  width: 70%;
 }
 
 .skills__figma {
